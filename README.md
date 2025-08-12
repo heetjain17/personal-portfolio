@@ -2,7 +2,9 @@ Personal Portfolio Website
 A clean, minimalist, and fully responsive personal portfolio built with React, Vite, and Tailwind CSS. Designed to showcase my skills, projects, and professional journey with a sleek, dark-mode aesthetic.
 
 **Live Demo:** [heet-jain-portfolio.vercel.app](https://heet-jain-portfolio.vercel.app/)
-![Portfolio Screenshot](./src/assets/your-screenshot.png)
+<br/>
+<br/>
+![Portfolio Screenshot](./src/assets/portfolio.png)
 
 Tech Stack
 
