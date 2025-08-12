@@ -1,0 +1,9 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- White corner brackets -->
+  <path d="M4 10V4H10" stroke="white" stroke-width="3"/>
+  <path d="M28 22V28H22" stroke="white" stroke-width="3"/>
+  <path d="M10 28H4V22" stroke="white" stroke-width="3"/>
+  
+  <!-- Red corner bracket -->
+  <path d="M22 4H28V10" stroke="#ef4444" stroke-width="3"/>
+</svg>
